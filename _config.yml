@@ -10,18 +10,18 @@
 # SITE SETTINGS
 #
 title: Joe Race Professional Portfolio
-description: "a professional portfolio detailing research, teaching, scholarly work and service"
+description: "a professional portfolio detailing research, teaching, scholarly work, and service"
 year: 2026
 author: Dr. Joe Race
 bio: A postdoctoral fellow in the Chemistry Department at Iowa State University and contributor to Ames National Laboratory, studying novel materials for energy generation.
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
-github_profile:
-department:
-orcid:
-cv:
+image: /assets/img/Headshot_Spring_2025_cropped.jpg
+email: jrace@iastate.edu 
+github_profile: https://github.com/race-joseph
+department: 
+orcid: https://orcid.org/0000-0002-8551-3627
+cv: /assest/2026_8_3_Race_Joseph_CV.pdf 
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
