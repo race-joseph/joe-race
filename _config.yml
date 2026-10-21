@@ -9,11 +9,11 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Joe Race Professional Portfolio
+description: "a professional portfolio detailing research, teaching, scholarly work and service"
 year: 2026
-author: ISU Cyclone
-bio:
+author: Dr. Joe Race
+bio: A postdoctoral fellow in the Chemistry Department at Iowa State University and contributor to Ames National Laboratory, studying novel materials for energy generation.
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
