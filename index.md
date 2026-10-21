@@ -6,7 +6,7 @@ title: Synthesizing functional materials for a sustainable energy future
 
 ## Bio
 
-A synthetic solid state chemist by training, Joe Race did his Ph.D. in Chemistry at The Ohio State University with Pat Woodward studying the crystal chemistry of hybrid organic-inorganic metal halides. He is currently a postdoctoral fellow in the Department of Chemistry at Iowa State University where he studies inorganic materials for energy harvesting in the lab of Kirill Kovnir.
+A synthetic solid state chemist by training, Joe Race did his Ph.D. in Chemistry at The Ohio State University with Pat Woodward studying the crystal chemistry of hybrid organic-inorganic metal halides. He is currently a postdoctoral fellow in the Department of Chemistry at Iowa State University and Ames National Laboratory contributor where he studies inorganic materials for energy harvesting in the lab of Kirill Kovnir.
 
 
 
